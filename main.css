@@ -5,3 +5,13 @@ body {
 .max-viewport {
   min-width: 100vh;
 }
+
+.text-underline {
+	width: 50%;
+	margin: 0 auto;
+}
+
+#icon_one {
+	font-size: 72px;
+	color: red;
+}
