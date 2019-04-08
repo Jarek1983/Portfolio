@@ -28,3 +28,43 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+
+#banner {
+
+    padding-top: 100px;
+    padding-bottom: 10px;
+  }
+
+@media screen and (max-width: 1199px) {
+  #banner {
+    padding-top: 90px;
+    padding-bottom: 10px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  #banner {
+    padding-top: 80px;
+    padding-bottom: 10px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #banner {
+    padding-top: 75px;
+    padding-bottom: 10px;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  #banner {
+    padding-top: 100px;
+    padding-bottom: 10px;
+  }
+  h1 {
+  	font-size: 1.75rem;
+  }
+  p {
+  	font-size: 0.75rem;
+  }
+}
