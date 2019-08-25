@@ -3,37 +3,36 @@ body {
 }
 
 .text-underline {
-	width: 50%;
-	margin: 0 auto;
+  width: 50%;
+  margin: 0 auto;
 }
 
 #icon_one {
-	font-size: 72px;
-	color: red;
+  font-size: 72px;
+  color: red;
 }
 
 #icon_two {
-	font-size: 36px;
-	padding-top: 20px; 
+  font-size: 36px;
+  padding-top: 20px; 
 }
 
 #icon_three {
-	font-size: 24px;
+  font-size: 24px;
 }
 
 #progress {
-	background-image: url(images/6.jpg);
-	background-attachment: fixed;
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
+  background-image: url(images/6.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #banner {
-
-    padding-top: 100px;
-    padding-bottom: 10px;
-  }
+  padding-top: 100px;
+  padding-bottom: 10px;
+}
 
 @media screen and (max-width: 1199px) {
   #banner {
@@ -62,9 +61,9 @@ body {
     padding-bottom: 10px;
   }
   h1 {
-  	font-size: 1.75rem;
+    font-size: 1.75rem;
   }
   p {
-  	font-size: 0.75rem;
+    font-size: 0.75rem;
   }
 }
